@@ -1,0 +1,10 @@
+# Idea
+.idea
+*.iml
+
+# Python
+.pytest_cache
+__pycache__
+# Allure
+allure-results
+.venv
